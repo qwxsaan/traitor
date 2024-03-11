@@ -63,3 +63,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 - 13/03/2024: [Read this one](https://github.com/qwxsaan)-Have a nice day)
 - 1 commit
 - 2 commit
+- 3 commit
