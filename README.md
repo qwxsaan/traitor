@@ -60,3 +60,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 - 09/03/21: [Hacker News thread](https://news.ycombinator.com/item?id=26224719)
 - 11/03/21: [Best news] (https://github.com/qwxsaan) -  Hi)
 - 12/03/24: [Interesting for you](https://github.com/qwxsaan)-Hello)
+- 13/03/2024: [Read this one](https://github.com/qwxsaan)-Have a nice day)
